@@ -1,0 +1,29 @@
+{
+  "name": "rn-toast-notification",
+  "version": "1.0.0",
+  "description": "A toast notification for React Native apps.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": ["lib"],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/fecoded/rn-toast-notification.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+ "keywords": ["react-native", "toast", "notification", "ui"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-native": "^0.79.2",
+    "react-native-safe-area-context": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.6",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.8.3",
+    "typesync": "^0.14.3"
+  }
+}
