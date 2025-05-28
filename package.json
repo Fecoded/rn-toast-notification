@@ -1,6 +1,6 @@
 {
   "name": "rn-toast-notification",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A toast notification for React Native apps.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -11,8 +11,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "watch": "tsc --watch",
-    "prepublishOnly": "login && publish"
+    "watch": "tsc --watch"
   },
  "keywords": ["react-native", "toast", "notification", "ui"],
   "author": "",

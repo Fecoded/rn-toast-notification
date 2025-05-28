@@ -1,1 +1,1 @@
-export { RNToastNotification } from './toast';
+export { RNToast } from './toast';
